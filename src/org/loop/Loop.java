@@ -6,6 +6,7 @@ public class Loop {
 		if(a==10) {
 			//10=10 true
 			System.out.println("a is 10");
+			System.out.println("Jeya is a new branch");
 		}
 		int b=20;
 		if(b==10) {
